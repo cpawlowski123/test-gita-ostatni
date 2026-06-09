@@ -1,6 +1,7 @@
 #include "Led.h"
 #include "Keyboard.h"
 
+//Zaliczam gita 
 void Delay(unsigned int uiMs) 
 {
 	
